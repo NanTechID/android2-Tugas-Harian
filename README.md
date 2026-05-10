@@ -28,8 +28,8 @@ Aplikasi mobile modern untuk manajemen stok, kelola produk, dan pantauan invento
 
 Aplikasi ini dibangun menggunakan *stack* teknologi modern:
 
-*   **Framework Mobile:** Flutter / React Native *(Pilih salah satu sesuai proyek Anda)*
-*   **Bahasa Pemrograman:** Dart / JavaScript/TypeScript
+*   **Framework Mobile:** Flutter 
+*   **Bahasa Pemrograman:** Dart 
 *   **Backend & Database:** Firebase (Auth, Firestore) / REST API *(Sesuaikan)*
 *   **Desain UI:** Material Design / Cupertino
 
